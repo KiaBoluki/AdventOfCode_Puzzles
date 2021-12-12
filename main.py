@@ -16,3 +16,4 @@ with open('./submarine_report.txt', 'r') as submarine_report:
     prev_number = current_num
     
   print(f'Increase:{increase_counter}',f'Decrease:{decrease_counter}')
+  
